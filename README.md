@@ -2,9 +2,9 @@
 Syntax highlighting for VHDL files in Linux "nano" editor
 
 ## Setup
-To add this syntax  highlighter for VHDL in nano you have to manually add this file in this directory  "/usr/share/nano" and then 
+To add this syntax  highlighter for VHDL in nano you have to manually add the vhdl.nanorc file in this directory  "/usr/share/nano" and then 
 make sure that in "/etc/nanorc" the line "include "/usr/share/nano/*.nanorc" " is not commented out.
-And that's it! :)
+And that's it! Have fun :)
 
 ## Bug report
 This is just an alpha version, i didn't add much things after all. All keywords have the same color, and they are not divided into different
