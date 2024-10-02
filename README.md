@@ -12,16 +12,14 @@ This is just an alpha version, i didn't add much things after all. All keywords 
 
 ## Next things to implement
 
-TODO:
-
-- [ ] --> Check if there are other things except keywords that has to be
+- [ ] Check if there are other things except keywords that has to be
        highlighted.
-- [ ] --> Implement header and magic in the nanorc file
-- [ ] --> I just coded every vhdl keyword to have the same color. Sort
-       them into different groups, such as, control flows, data
-       types, and so on and so forth, and map them with different
-       colors.
-- [ ] --> Add support for common imported libraries such as numeric_std
+- [ ] Implement header and magic in the nanorc file
+- [ ] I just coded every vhdl keyword to have the same color. Sort
+      them into different groups, such as, control flows, data
+      types, and so on and so forth, and map them with different
+      colors.
+- [ ] Add support for common imported libraries such as numeric_std
        and the one for std_logic.
 
 
